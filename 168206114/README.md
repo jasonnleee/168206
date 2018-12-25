@@ -5,10 +5,10 @@
     <UL><b>
         <li>1：考试题<br>
         <li>02：<br>
-        <li>02：<br>
-        <li>04：<br>
-        <li>05：<br>
-        <li>06: <br>
+        <li>02：sum<br>
+        <li>04：合并排序<br>
+        <li>05：快速排序<br>
+        <li>06: 冒泡排序<br>
         <li>07: <br>
         <li>08: for<br>
     </UL></b>
